@@ -1,0 +1,37 @@
+{
+  "name": "cordova-plugin-live-ocr",
+  "version": "0.0.1",
+  "description": "\n\t\tThis plugin allows to recognise text from images\n\t",
+  "cordova": {
+    "id": "cordova-plugin-live-ocr",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demonVibe/cordova-plugin-live-ocr.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.6.0"
+    },
+    {
+      "name": "cordova-android",
+      "version": ">=3.6.0"
+    }
+  ],
+  "author": " demonVibe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/demonVibe/cordova-plugin-live-ocr#issues"
+  },
+  "homepage": "https://github.com/demonVibe/cordova-plugin-live-ocr#readme"
+}
